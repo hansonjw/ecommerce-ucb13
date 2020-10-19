@@ -2,7 +2,7 @@
   No license is applicable for this application
 
   ## Description:  
-  TBD
+  This application is the backend of an e-commerce site that demosntrates API routes and database querying/updates.
 
   ## Table of Contents:
   * [Installation Instructions](#Installation:)
@@ -13,11 +13,11 @@
   
   <a name="Installation:"></a>
   ## Installation:  
-  TBD
+  Download/clone the code from this repository.
   
   <a name="How-To:"></a>
   ## Walk Through Video:  
-  TBD
+  https://drive.google.com/file/d/1lkEgisMZamMDGgBCE_2AvMt8Xvq2ZVFZ/view
 
   <a name="Contribute:"></a>
   ## Contribute:  
